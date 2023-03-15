@@ -4,7 +4,7 @@
 print('"Nexia", "Tico", \'Damas\' ko\'rganlar qilar havas.')
 
 
-#1. 5 ning 4 darajasi.
+#1. 5 ning 4 darajasi. ZASRHED
 
 print("5 ning 4\-darjasi", 5**4)
 
@@ -14,7 +14,7 @@ print("5 ning 4\-darjasi", 5**4)
 print("22 ni 4 bo\'lganda",22%4,'qoldiq qoladi.')
 
 
-#3. Tomonlari 125 ga teng bo'lgan kvadratning yuzi va peremetrini toping?
+#3. Tomonlari 125 ga teng bo'lgan kvadratning yuzi va peremetrini toping?///
 
 print("Tomonlari 125 ga teng bo\'lgan. \nKvadratning yuzi",125*125,"ga teng." "\nKvadratning peremetri",4*125,"ga teng.")
 
