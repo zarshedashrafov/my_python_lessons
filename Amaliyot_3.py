@@ -1,0 +1,10 @@
+kocha=input("Ko'changiz nomini kiriting \n>>>")
+mahalla=input("Mahallangiz nomini kiriting \n>>>")
+tuman=input("Tumanigiz nomini kiriting \n>>>")
+viloyat=input("Viloyatingizni yozing\n>>>")
+manzil=f"Sizning manzilingiz:\n {kocha.lower()} ko'chasi\n {mahalla.upper()} mahallasi\n {tuman.title()} tumani\n {viloyat.capitalize()} viloyati"
+#print("Sizning manzilingiz: \n"+kocha.title()+" ko'chasi,\n"+mahalla.title()+" mahallasi,\n"+tuman.title()+" tumani,\n"+viloyat.title()+" viloyati.")
+print(manzil)
+type(kocha)
+print (type(int(kocha)))
+print(int(kocha)+12)
